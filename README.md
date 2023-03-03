@@ -1,7 +1,7 @@
 # GetBuckets - Analyzing NBA Myths
 
 
-# Html too large to render: [Click here! ](https://htmlpreview.github.io/?raw.githubusercontent.com/SamMoot/GetBuckets/main/NBA%20Myths/NBA_Analytics.html)
+Html too large to render: [Click here! ](https://htmlpreview.github.io/?raw.githubusercontent.com/SamMoot/GetBuckets/main/NBA%20Myths/NBA_Analytics.html)
 
 
 # 1. Hot Hand ? 
